@@ -1,0 +1,5 @@
+project: tera
+target: fuzz_template
+
+cmds:
+  - cmd: /fuzz_template

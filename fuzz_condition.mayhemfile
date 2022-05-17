@@ -1,0 +1,5 @@
+project: tera
+target: fuzz_condition
+
+cmds:
+  - cmd: /fuzz_condition

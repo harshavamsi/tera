@@ -1,0 +1,5 @@
+project: tera
+target: fuzz_expression
+
+cmds:
+  - cmd: /fuzz_expression
